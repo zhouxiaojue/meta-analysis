@@ -1,0 +1,17 @@
+//Reference=Talairach
+//Peelen et al. (2013),tool,word,auditory,low_sem,button
+//Subjects=20
+-51	-57	-2
+
+//Reference=Talairach
+//Lewis et al. (2005),tool,auditory,high_sem,no_response
+//Subjects=20
+49	-51	5
+-51	-57	3
+48	-29	20
+-44	-35	18
+-55	-28	33
+-39	-40	42
+-28	-64	40
+-49	31	21
+-46	3	27

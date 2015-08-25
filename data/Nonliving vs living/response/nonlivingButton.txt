@@ -1,0 +1,430 @@
+//Reference=MNI
+//Adam et al. (2010) Exp2,nonliving,auditory,high_sem,button
+//Subjects=24
+26	-28	-20
+30	-30	-18
+-22	-32	-12
+
+//Reference=MNI
+//Adam et al. (2010) Exp1,nonliving,pic,visual,high_sem,button
+//Subjects=24
+-26	-46	-12
+28	-44	-10
+30	-34	-16
+38	-82	18
+-32	-90	20
+
+//Reference=MNI
+//Bedny et al. (2008; Exp1),nonliving,word,auditory,high_sem,button
+//Subjects=12
+-58	-48	22
+-57	-41	-1
+57	-46	11
+
+//Reference=MNI
+//Bedny et al. (2012),nonliving,word,auditory,high_sem,button
+//Subjects=20
+-64	-44	20
+-52	-42	2
+-64	-42	2
+60	-38	8
+48	-36	4
+-56	18	-2
+
+//Reference=Talairach
+//Cappa, S. F., et al. (1998) cond1,nonliving,word,visual,high_sem,button
+//Subjects=13
+-44	22	20
+-40	8	28
+-14	30	36
+-46	-60	-8
+-46	-48	-4
+-18	50	20
+
+//Reference=Talairach
+//Cappa, S. F., et al. (1998) cond2,nonliving,word,visual,high_sem,button
+//Subjects=13
+-46	22	20
+-40	-78	25
+-2	-62	20
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999) cond1,nonliving,pic,visual,low_sem,button
+//Subjects=4
+25	-50	-12
+-27	-52	-12
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999) cond2,nonliving,pic,visual,high_sem,button
+//Subjects=8
+27	-53	-9
+-29	-52	-6
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp1),tool,pic,visual,low_sem,button
+//Subjects=4
+32	-65	-19
+-26	-53	-17
+46	-56	4
+-47	-54	6
+
+//Reference=MNI
+//Devlin, J. T., et al. (2005),nonliving,word,visual,high_sem,button
+//Subjects=12
+26	-56	-10
+
+//Reference=Talairach
+//Gerlach, C., et al. (2000),nonliving,pic,visual,high_sem,button
+//Subjects=15
+-56	-16	-40
+-44	38	-20
+-30	52	-18
+-32	44	-20
+-54	46	16
+-58	26	0
+-64	6	20
+-12	16	38
+
+//Reference=Talairach
+//Gerlach, C., et al. (2002a),nonliving,pic,visual,high_sem,button
+//Subjects=12
+-42	8	22
+-42	8	24
+
+//Reference=MNI
+//Gerlach, C., et al. (2004),nonliving,pic,visual,high_sem,button
+//Subjects=12
+56	-58	-16
+50	-72	-8
+56	-54	-22
+
+//Reference=Talairach
+//Goldberg,   et al. (2006),nonliving,word,visual,high_sem,button
+//Subjects=14
+-54	-33	34
+-47	5	25
+-34	29	20
+
+//Reference=Talairach
+//Grafton, S. T., et al. (1997),tool,pic,visual,low_sem,button
+//Subjects=8
+-39	-6	51
+-32	44	17
+
+//Reference=Talairach
+//Grossman, E. D., et al. (2002),nonliving,pic,visual,low_sem,button
+//Subjects=10
+-28.4	-77.8	-2.5
+33.9	-74.7	-1
+
+//Reference=MNI
+//Grossman, M., et al. (2013),nonliving,word,visual,low_sem,button
+//Subjects=18
+-28	-94	-8
+-32	-88	-16
+-38	-60	-18
+-38	-42	-10
+-30	-44	-20
+-40	-50	-6
+-6	-62	-2
+-12	-64	0
+-40	-72	-14
+-42	-88	-2
+-20	-66	4
+36	-86	-8
+36	-82	-10
+44	-80	-14
+12	-76	-16
+-30	-30	-22
+36	-62	-20
+28	-44	-24
+38	-44	-34
+38	-46	-30
+30	-76	-18
+36	-94	4
+32	-96	2
+0	-64	-2
+-2	-82	-28
+2	-80	-30
+-2	-74	-24
+0	-60	-32
+-6	-58	-32
+0	-58	-24
+-4	-56	-20
+-48	8	30
+-52	12	16
+-32	28	-2
+-50	46	-12
+-48	50	-6
+-42	42	-20
+-44	46	-18
+-40	28	14
+-32	20	22
+-48	4	50
+-40	2	58
+-42	-2	40
+-28	18	2
+-30	22	0
+50	36	24
+44	16	-6
+44	32	10
+34	26	6
+34	26	-6
+30	14	-2
+-20	6	4
+-18	6	-2
+-18	-6	10
+-12	-14	8
+-10	-18	8
+18	6	6
+24	0	6
+30	4	-2
+-48	8	30
+14	-2	-6
+16	2	6
+10	-6	-2
+16	-12	10
+-24	-66	34
+-28	-72	26
+-30	-54	50
+-18	-64	54
+-30	-44	40
+-48	-32	48
+-46	-32	42
+-38	-44	54
+-56	-22	40
+-2	16	48
+
+//Reference=MNI
+//Han, Z., et al. (2013),nonliving,video,visual,low_sem,button
+//Subjects=16
+-2	-7	60
+2	23	-7
+51	-25	0
+30	-93	-4
+53	-9	15
+52	-5	48
+-25	-96	-6
+-55	-3	10
+-53	-33	23
+-62	-51	5
+-42	-14	36
+
+//Reference=Talairach
+//Handy, T. C., et al. (2003),tool,pic,visual,low_sem,button
+//Subjects=14
+-12	21	34
+51	19	30
+-44	8	46
+-4	19	36
+53	-51	32
+-53	-50	32
+
+//Reference=Talairach
+//He, C., et al. (2013) exp2,nonliving,word,auditory,low_sem,button
+//Subjects=17
+-28	-26	-21
+29	-35	-15
+-16	-59	12
+20	-59	15
+-28	-80	21
+
+//Reference=Talairach
+//Martin et al. (2003),nonliving,video,visual,high_sem,button
+//Subjects=12
+-25	-44	-18
+27	-57	-16
+-49	-56	-9
+-34	-58	-7
+
+//Reference=Talairach
+//Moore&Price (1999) Exp. 2,nonliving,pic,visual,high_sem,button
+//Subjects=8
+-42	24	-8
+-4	-92	-10
+
+//Reference=Talairach
+//Noppeney et al. (2005) Exp. 2,nonliving,word,visual,high_sem,button
+//Subjects=12
+-57	-36	30
+-54	-66	-3
+
+//Reference=Talairach
+//Peelen et al. (2013),tool,word,auditory,low_sem,button
+//Subjects=20
+-51	-57	-2
+
+//Reference=Talairach
+//Perani et al. (1999) Exp. 1,nonliving,pic,visual,high_sem,button
+//Subjects=11
+-36	38	0
+-62	-40	8
+-56	-46	-8
+
+//Reference=Talairach
+//Perani et al. (1999) Exp. 2,nonliving,word,visual,high_sem,button
+//Subjects=8
+-8	-62	36
+-44	-56	0
+-12	-66	-8
+-34	-42	-44
+8	-70	4
+6	-96	16
+
+//Reference=Talairach
+//Phillips et al. (2002),nonliving,pic,visual,high_sem,button
+//Subjects=12
+16	-88	-34
+36	-78	-34
+-56	-62	0
+
+//Reference=Talairach
+//Anzelloti et al. (2011),tool,pic,visual,high_sem,button
+//Subjects=11
+-26	-38	-19
+24	-46	-13
+-44	-59	-11
+-52	-12	-27
+-35	-8.6	-32
+-44	5.2	-33
+-25	-78	31
+-37	-42	34
+-44	-34	34
+48	-32	36
+-30	-53	44
+
+//Reference=Talairach
+//Beauchamp et al. (2002; exp1),tool,video,visual,high_sem,button
+//Subjects=8
+-38	-63	-6
+38	-63	-6
+
+//Reference=Talairach
+//Beauchamp et al. (2002; exp2),tool,video,visual,high_sem,button
+//Subjects=6
+-46	-70	-4
+46	-70	-4
+-28	-66	-11
+28	-66	-11
+
+//Reference=Talairach
+//Beauchamp et al. (2003),tool,video,visual,high_sem,button
+//Subjects=9
+-50	-62	-6
+45	-63	-9
+-21	-40	-16
+28	-42	-24
+-23	-37	51
+25	-62	54
+-48	2	21
+41	-4	19
+
+//Reference=Talairach
+//Bracci et al. (2011; Exp1),tool,pic,visual,high_sem,button
+//Subjects=14
+-48	-65	-6
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp2),tool,pic,visual,high_sem,button
+//Subjects=6
+26	-47	-16
+-27	-50	-15
+50	-54	6
+-45	-57	7
+
+//Reference=Talairach
+//Grafton, S. T., et al. (1997) exp1,tool,pic,visual,high_sem,button
+//Subjects=8
+-3	3	63
+-39	-6	51
+-32	44	17
+-35	44	11
+-38	17	17
+17	26	27
+
+//Reference=Talairach
+//Grafton, S. T., et al. (1997) exp2,tool,pic,visual,high_sem,button
+//Subjects=8
+-6	3	48
+-39	-6	51
+-48	-2	29
+-32	44	17
+-38	17	17
+
+//Reference=Talairach
+//Grafton, S. T., et al. (1997) exp3,tool,pic,visual,high_sem,button
+//Subjects=8
+-6	3	48
+-39	-6	51
+-48	-2	29
+-38	17	17
+
+//Reference=Talairach
+//Grafton, S. T., et al. (1997) exp4,tool,pic,visual,high_sem,button
+//Subjects=8
+-39	-6	51
+-48	-2	29
+
+//Reference=Talairach
+//Grezes, J., et al. (2002) exp1,tool,pic,visual,high_sem,button
+//Subjects=10
+6	-6	72
+-52	-44	30
+-6	-48	24
+18	-18	22
+-40	28	8
+-58	-2	6
+-50	-68	4
+48	-62	-48
+
+//Reference=MNI
+//Kellenbach, M. L., et al. (2003) exp1,tool,pic,visual,high_sem,button
+//Subjects=9
+-46	4	20
+-46	-60	-4
+-38	-44	44
+-56	-44	20
+-46	-62	-12
+-42	-26	-26
+-36	34	-26
+-42	38	-2
+-56	-18	24
+26	-82	-42
+
+//Reference=Talairach
+//Noppeney et al. (2006),tool,pic,visual,high_sem,button
+//Subjects=22
+-51	-66	-6
+-24	-57	-15
+-57	-30	39
+-48	36	6
+-54	18	15
+-33	-33	-24
+
+//Reference=MNI
+//Phillips et al. (2002),tool,pic,visual,high_sem,button
+//Subjects=12
+-56	-68	4
+18	-10	64
+
+//Reference=Talairach
+//Simmons et al. (2010)Condition 2,tool,visual,high_sem,button
+//Subjects=12
+-21	19	54
+-53	-29	-2
+25	-61	-34
+-35	-29	-10
+-41	-55	32
+
+//Reference=MNI
+//Zannino et al. (2010),nonliving,pic,visual,high_sem,button
+//Subjects=15
+-30	-50	-14
+-10	-58	2
+-8	-75	-10
+26	-36	-22
+32	-44	-16
+18	-56	-10
+16	-86	-12
+-28	-88	8
+36	-88	18

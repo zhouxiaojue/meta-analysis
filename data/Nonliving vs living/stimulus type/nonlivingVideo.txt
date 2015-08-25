@@ -1,0 +1,48 @@
+//Reference=Talairach
+//Beauchamp et al. (2002; exp1),tool,video,visual,high_sem,button
+//Subjects=8
+-38	-63	-6
+38	-63	-6
+
+//Reference=Talairach
+//Beauchamp et al. (2002; exp2),tool,video,visual,high_sem,button
+//Subjects=6
+-46	-70	-4
+46	-70	-4
+-28	-66	-11
+28	-66	-11
+
+//Reference=Talairach
+//Beauchamp et al. (2003),tool,video,visual,high_sem,button
+//Subjects=9
+-50	-62	-6
+45	-63	-9
+-21	-40	-16
+28	-42	-24
+-23	-37	51
+25	-62	54
+-48	2	21
+41	-4	19
+
+//Reference=MNI
+//Han, Z., et al. (2013),nonliving,video,visual,low_sem,button
+//Subjects=16
+-2	-7	60
+2	23	-7
+51	-25	0
+30	-93	-4
+53	-9	15
+52	-5	48
+-25	-96	-6
+-55	-3	10
+-53	-33	23
+-62	-51	5
+-42	-14	36
+
+//Reference=Talairach
+//Martin et al. (2003),nonliving,video,visual,high_sem,button
+//Subjects=12
+-25	-44	-18
+27	-57	-16
+-49	-56	-9
+-34	-58	-7

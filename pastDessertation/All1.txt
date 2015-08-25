@@ -1,0 +1,12 @@
+// Reference=Talairach
+//Anzellotti et al. (2011)  
+//visual_picture 
+//high_sem 
+//button 
+//animal_vs_tool 
+// Subjects=11
+49.37	-76.59	-9.36
+39.56	-50.1	-23.74
+37.7	-50.54	12.01
+22.2	8.16	-34
+

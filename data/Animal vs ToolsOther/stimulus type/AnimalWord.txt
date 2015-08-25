@@ -1,0 +1,13 @@
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp4),animal,word,visual,high_sem,button
+//Subjects=8
+31	-76	-15
+-29	-72	-18
+37	-55	-21
+-40	-56	-21
+-64	-40	6
+
+//Reference=Talairach
+//Mahon et al. (2009) Study 1,animal,word,auditory,high_sem,button
+//Subjects=8
+-43	-76	-5

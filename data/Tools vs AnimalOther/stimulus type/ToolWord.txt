@@ -1,0 +1,11 @@
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp4),tool,word,visual,low_sem,button
+//Subjects=8
+23	-59	-11
+-32	-53	-17
+-49	-52	-3
+
+//Reference=Talairach
+//Peelen et al. (2013),tool,word,auditory,low_sem,button
+//Subjects=20
+-51	-57	-2

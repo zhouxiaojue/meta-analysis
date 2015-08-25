@@ -1,0 +1,51 @@
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp1),animal,pic,visual,low_sem,button
+//Subjects=4
+12	-87	-7
+-17	-97	-16
+29	-84	-11
+-36	-78	-15
+41	-53	-20
+-35	-59	-20
+43	-61	12
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp3),animal,pic,visual,low_sem,no_response
+//Subjects=8
+15	-92	1
+-9	-88	9
+33	-84	-5
+-30	-81	-1
+38	-56	-12
+-40	-59	-10
+53	-54	16
+-42	-59	19
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp4),animal,word,visual,high_sem,button
+//Subjects=8
+31	-76	-15
+-29	-72	-18
+37	-55	-21
+-40	-56	-21
+-64	-40	6
+
+//Reference=Talairach
+//Joseph, J. E., et al. (2006) exp3,animal,pic,visual,low_sem,button
+//Subjects=9
+-39	-73	-14
+28	-70	-14
+-27	-64	45
+30	-59	42
+-48	-21	52
+32	-2	49
+47	7	28
+-5	11	49
+-31	23	6
+25	37	-20
+49	37	28
+
+//Reference=Talairach
+//Mahon et al. (2009) Study 2,animal,pic,visual,low_sem, no_response
+//Subjects=20
+-42	-76	-7
