@@ -292,7 +292,7 @@
 40	-55	-19
 
 //Reference=Talairach
-//Tyler et al. (2003) cond2,animal,pic,visual,high_sem,button
+//Tyler et al. (2003) cond2,living,pic,visual,high_sem,button
 //Subjects=9
 57	-34	22
 
