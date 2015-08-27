@@ -1,0 +1,8 @@
+Parameters
+0801
+Threshold: Uncorrected P value 
+cluster size: 100
+Performance: no clusters in low semantic
+
+
+
