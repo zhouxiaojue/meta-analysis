@@ -38,23 +38,6 @@
 49	-24	46
 
 //Reference=Talairach
-//Mahon et al. (2009) Study 1,nonliving,word,auditory,high_sem,no_response
-//Subjects=7
--24	-40	-11
-27	-31	-17
-
-//Reference=Talairach
-//Peelen et al. (2013),tool,word,auditory,low_sem,button
-//Subjects=20
--51	-57	-2
-
-//Reference=Talairach
-//Noppeney et al. (2005) Exp. 1,nonliving,word,auditory,high_sem,verbal
-//Subjects=12
--60	-36	27
--54	-63	6
-
-//Reference=Talairach
 //Lewis et al. (2005),tool,auditory,high_sem,no_response
 //Subjects=20
 49	-51	5
@@ -66,6 +49,23 @@
 -28	-64	40
 -49	31	21
 -46	3	27
+
+//Reference=Talairach
+//Mahon et al. (2009) Study 1,nonliving,word,auditory,high_sem,no_response
+//Subjects=7
+-24	-40	-11
+27	-31	-17
+
+//Reference=Talairach
+//Noppeney et al. (2005) Exp. 1,nonliving,word,auditory,high_sem,verbal
+//Subjects=12
+-60	-36	27
+-54	-63	6
+
+//Reference=Talairach
+//Peelen et al. (2013),tool,word,auditory,low_sem,button
+//Subjects=20
+-51	-57	-2
 
 //Reference=Talairach
 //Thommpson-Schill (1999) exp1,nonliving,word,auditory,high_sem,verbal

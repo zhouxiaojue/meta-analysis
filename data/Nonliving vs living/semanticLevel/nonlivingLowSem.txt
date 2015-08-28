@@ -21,17 +21,17 @@
 -46	-55	3
 
 //Reference=Talairach
-//Chao, L. L., et al. (2000;exp1),tool,pic,visual,low_sem,no_response
-//Subjects=5
--42	6	23
--32	-47	42
-
-//Reference=Talairach
-//Chao, L. L., et al. (1999;exp4),tool,word,visual,low_sem,button
+//Chao, L. L., et al. (1999;exp4),tool,word,visual,low_sem,verbal
 //Subjects=8
 23	-59	-11
 -32	-53	-17
 -49	-52	-3
+
+//Reference=Talairach
+//Chao, L. L., et al. (2000;exp1),tool,pic,visual,low_sem,no_response
+//Subjects=5
+-42	6	23
+-32	-47	42
 
 //Reference=MNI
 //Creem-Regehr, S. H., et al. (2005;con1),tool,pic,visual,low_sem,no_response
@@ -46,11 +46,6 @@
 28	-46	60
 -54	0	26
 -8	20	48
-
-//Reference=MNI
-//Creem-Regehr, S. H., et al. (2005),tool,pic,visual,low_sem,no_response
-//Subjects=12
--36	-48	-22
 
 //Reference=Talairach
 //Grafton, S. T., et al. (1997),tool,pic,visual,low_sem,button
@@ -74,14 +69,6 @@
 //Subjects=10
 -28.4	-77.8	-2.5
 33.9	-74.7	-1
-
-//Reference=Talairach
-//Grossman, E. D., et al. (2004),nonliving,pic,visual,low_sem,button
-//Subjects=8
--45	-51.4	13.2
-48.9	-51.6	10.8
--39.6	-50.1	-11.9
-37.4	-50.1	-10.9
 
 //Reference=MNI
 //Grossman, M., et al. (2013),nonliving,word,visual,low_sem,button
@@ -195,7 +182,7 @@
 32	-89	18
 
 //Reference=Talairach
-//He, C., et al. (2013) exp2, nonliving,word,auditory,low_sem,button
+//He, C., et al. (2013) exp2,nonliving,word,auditory,low_sem,button
 //Subjects=17
 -28	-26	-21
 29	-35	-15

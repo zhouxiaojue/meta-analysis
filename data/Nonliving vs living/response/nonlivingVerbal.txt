@@ -33,70 +33,19 @@
 -2	50	-4
 
 //Reference=Talairach
-//Gorno-Tempini, M. L. (2000) cond1,nonliving,pic,visual,high_sem,verbal
+//Chao, L. L., et al. (1999;exp4),tool,word,visual,low_sem,verbal
 //Subjects=8
--54	-56	0
+23	-59	-11
+-32	-53	-17
+-49	-52	-3
 
 //Reference=Talairach
-//Gorno-Tempini, M. L. (2000) cond2,nonliving,pic,visual,high_sem,verbal
-//Subjects=8
-24	-80	32
-38	-86	18
-40	-36	-8
-26	-54	46
-
-//Reference=Talairach
-//Hwang, K., et al. (2009),nonliving,word,auditory,high_sem,verbal
-//Subjects=13
--45	-69	34
-49	-24	46
-
-//Reference=Talairach
-//Martin et al. (1995) exp1,nonliving,pic,visual,high_sem,verbal
-//Subjects=12
--42	12	20
--36	4	44
--43	18	6
--34	48	16
--32	34	0
--38	-64	36
--52	-50	0
--46	-60	16
--50	-62	28
-26	-68	-28
-
-//Reference=Talairach
-//Martin et al. (1995) exp2,nonliving,word,visual,high_sem,verbal
-//Subjects=12
-44	6	4
--42	18	4
--50	50	4
--54	-62	8
--50	-52	24
--54	-38	20
-
-//Reference=Talairach
-//Mechelli et al. (2006),nonliving,pic,visual,high_sem,verbal
-//Subjects=12
--28	-52	-14
-32	-50	-16
--29	-92	4
-34	-82	10
-6	-88	-16
-18	-84	-24
-
-//Reference=Talairach
-//Moore&Price (1999) Exp. 1,nonliving,pic,visual,high_sem,verbal
-//Subjects=8
--42	24	-8
--38	-50	-14
-2	-74	-24
-
-//Reference=Talairach
-//Noppeney et al. (2005) Exp. 1,nonliving,word,auditory,high_sem,verbal
-//Subjects=12
--60	-36	27
--54	-63	6
+//Chao, L. L., et al. (1999;exp2),tool,pic,visual,high_sem,verbal
+//Subjects=14
+26	-47	-16
+-27	-50	-15
+50	-54	6
+-45	-57	7
 
 //Reference=Talairach
 //Chao, L. L., et al. (2000;exp2),tool,pic,visual,high_sem,verbal
@@ -127,6 +76,19 @@
 -45	22	9
 -5	35	30
 
+//Reference=MNI
+//Gorno-Tempini, M. L. (2000) cond1,nonliving,pic,visual,high_sem,verbal
+//Subjects=8
+-54	-56	0
+
+//Reference=MNI
+//Gorno-Tempini, M. L. (2000) cond2,nonliving,pic,visual,high_sem,verbal
+//Subjects=8
+24	-80	32
+38	-86	18
+40	-36	-8
+26	-54	46
+
 //Reference=Talairach
 //Grabowski, T. J., et al. (1998),tool,pic,visual,high_sem,verbal
 //Subjects=9
@@ -142,6 +104,23 @@
 -46	16	6
 -62	-42	0
 -36	-30	-18
+
+//Reference=Talairach
+//Hwang, K., et al. (2009),nonliving,word,auditory,high_sem,verbal
+//Subjects=13
+-45	-69	34
+49	-24	46
+
+//Reference=Talairach
+//Kawashima, R., et al. (2001),nonliving,pic,visual,high_sem,verbal
+//Subjects=8
+-12	-86	18
+14	-92	22
+10	-56	12
+28	-68	2
+28	-42	-10
+-16	8	-36
+-38	-16	-22
 
 //Reference=MNI
 //Kiyosawa, M., et al. (1996),tool,pic,visual,high_sem,verbal
@@ -162,6 +141,30 @@
 40	13	-23
 
 //Reference=Talairach
+//Martin et al. (1995) exp1,nonliving,pic,visual,high_sem,verbal
+//Subjects=12
+-42	12	20
+-36	4	44
+-43	18	6
+-34	48	16
+-32	34	0
+-38	-64	36
+-52	-50	0
+-46	-60	16
+-50	-62	28
+26	-68	-28
+
+//Reference=Talairach
+//Martin et al. (1995) exp2,nonliving,word,visual,high_sem,verbal
+//Subjects=12
+44	6	4
+-42	18	4
+-50	50	4
+-54	-62	8
+-50	-52	24
+-54	-38	20
+
+//Reference=Talairach
 //Martin et al. (1996),tool,pic,visual,high_sem,verbal
 //Subjects=16
 -28	-50	-12
@@ -175,9 +178,32 @@
 8	-56	-8
 
 //Reference=Talairach
+//Mechelli et al. (2006),nonliving,pic,visual,high_sem,verbal
+//Subjects=12
+-28	-52	-14
+32	-50	-16
+-29	-92	4
+34	-82	10
+6	-88	-16
+18	-84	-24
+
+//Reference=Talairach
 //Moore&Price (1999) Exp. 1,tool,pic,visual,high_sem,verbal
 //Subjects=8
 -58	-60	-6
+
+//Reference=Talairach
+//Moore&Price (1999) Exp. 1,nonliving,pic,visual,high_sem,verbal
+//Subjects=8
+-42	24	-8
+-38	-50	-14
+2	-74	-24
+
+//Reference=Talairach
+//Noppeney et al. (2005) Exp. 1,nonliving,word,auditory,high_sem,verbal
+//Subjects=12
+-60	-36	27
+-54	-63	6
 
 //Reference=MNI
 //Okada et al. (2000),tool,pic,visual,high_sem,verbal

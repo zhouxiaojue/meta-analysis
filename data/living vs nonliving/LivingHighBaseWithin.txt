@@ -1,0 +1,52 @@
+//Reference=Talairach
+//Cappa, S. F., et al. (1998),living ,word,visual,high_sem,button
+//Subjects=13
+30	50	12
+34	-38	-24
+
+//Reference=MNI
+//Grossman, M., et al. (2013),living,word,visual,high_sem,button
+//Subjects=18
+-44	-68	44
+-52	-56	28
+
+//Reference=MNI
+//Han, Z., et al. (2013),living,video,visual,low_sem,button
+//Subjects=16
+-2	-87	2
+48	-68	8
+55	-41	16
+
+//Reference=Talairach
+//Martin et al. (1996),animal,pic,visual,high_sem,verbal
+//Subjects=16
+-4	-80	8
+-26	-6	24
+-26	28	16
+-18	-90	12
+-2	-84	-4
+
+//Reference=Talairach
+//Moore&Price (1999) Exp. 1,living,pic,visual,high_sem,verbal
+//Subjects=8
+-26	2	-18
+38	12	-18
+60	-62	6
+24	-48	-30
+
+//Reference=Talairach
+//Moore&Price (1999) Exp. 2,living,visual,high_sem,button
+//Subjects=6
+-28	2	-14
+42	10	-18
+64	-58	-6
+4	-4	2
+-14	32	14
+48	-22	24
+40	-46	-18
+
+//Reference=Talairach
+//Perani et al. (1999) Exp. 1,living,pic,visual,high_sem,button
+//Subjects=11
+-44	-82	-32
+-46	-82	-20

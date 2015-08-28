@@ -29,14 +29,5 @@
 
 //Reference=Talairach
 //Mahon et al. (2009) Study 1,animal,word,auditory,high_sem,button
-//Subjects=8
+//Subjects=7
 -43	-76	-5
-
-//Reference=Talairach
-//Thommpson-Schill (1999) exp1,living,word,auditory,high_sem,button
-//Subjects=5
--41	-53	-11
-41	-34	4
--34	19	-4
--41	-4	34
--11	0	41
