@@ -76,8 +76,8 @@
 -2	-62	20
 
 //Reference=Talairach
-//Chao, L. L., et al. (1999;exp2),animal,pic,visual,high_sem,button
-//Subjects=6
+//Chao, L. L., et al. (1999;exp2),animal,pic,visual,high_sem,verbal
+//Subjects=14
 15	-93	-1
 -11	-96	2
 41	-80	-10
@@ -86,6 +86,38 @@
 -37	-55	-20
 52	-59	15
 -43	-63	8
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp1),animal,pic,visual,low_sem,button
+//Subjects=4
+12	-87	-7
+-17	-97	-16
+29	-84	-11
+-36	-78	-15
+41	-53	-20
+-35	-59	-20
+43	-61	12
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp3),animal,pic,visual,low_sem,no_response
+//Subjects=8
+15	-92	1
+-9	-88	9
+33	-84	-5
+-30	-81	-1
+38	-56	-12
+-40	-59	-10
+53	-54	16
+-42	-59	19
+
+//Reference=Talairach
+//Chao, L. L., et al. (1999;exp4),animal,word,visual,low_sem,verbal
+//Subjects=8
+31	-76	-15
+-29	-72	-18
+37	-55	-21
+-40	-56	-21
+-64	-40	6
 
 //Reference=Talairach
 //Chao, L. L., et al. (2002),animal,pic,visual,high_sem,verbal
@@ -108,7 +140,7 @@
 -41	22	3
 5	-78	21
 
-//Reference=Talairach
+//Reference=MNI
 //Devlin, J. T., et al. (2005),living,word,visual,high_sem,button
 //Subjects=12
 36	-66	-14
@@ -127,7 +159,7 @@
 
 //Reference=MNI
 //Gorno-Tempini, M. L. (2000),living,pic,visual,high_sem,verbal
-//Subjects=12
+//Subjects=8
 -66	-14	-8
 
 //Reference=Talairach
@@ -142,7 +174,7 @@
 -34	47	14
 
 //Reference=Talairach
-//Grossman, E. D., et al. (2002) exp1,living,pic,visual,low_sem,button
+//Grossman, E. D., et al. (2002) exp1,living,video,visual,low_sem,button
 //Subjects=10
 -41.3	-52.8	11.8
 46.1	-48.5	12.4
@@ -168,7 +200,7 @@
 40.6	-65.7	10.6
 
 //Reference=Talairach
-//Grossman, E. D., et al. (2004),living,pic,visual,low_sem,button
+//Grossman, E. D., et al. (2004),living,video,visual,low_sem,button
 //Subjects=8
 -45	-51.4	13.2
 48.9	-51.6	10.8
@@ -176,7 +208,7 @@
 37.4	-50.1	-10.9
 
 //Reference=MNI
-//Grossman, M., et al. (2013),living,pic,visual,low_sem,button
+//Grossman, M., et al. (2013),living,word,visual,high_sem,button
 //Subjects=18
 -38	-60	-20
 -42	-76	-18
@@ -267,20 +299,6 @@
 //Reference=MNI
 //Han, Z., et al. (2013),living,video,visual,low_sem,button
 //Subjects=16
-33	-90	-3
--3	9	72
-52	-3	-9
-42	-9	-33
-39	-27	66
-51	9	51
--6	21	42
--57	-21	33
--12	-33	42
--12	-69	33
-
-//Reference=MNI
-//Han, Z., et al. (2013),living,video,visual,low_sem,button
-//Subjects=16
 4	-64	-4
 33	-4	-34
 51	26	18
@@ -292,7 +310,7 @@
 -9	-34	43
 
 //Reference=Talairach
-//Joseph, J. E., et al. (2006) exp1,animal,pic,visual,high_sem,no_response
+//Joseph, J. E., et al. (2006) exp1,animal,pic,visual,high_sem,verbal
 //Subjects=9
 39	-71	-12
 -43	-70	-11
@@ -318,24 +336,49 @@
 -33	31	9
 
 //Reference=Talairach
-//Joseph, J. E., et al. (2006) exp2,animal,pic,visual,high_sem,button
+//Joseph, J. E., et al. (2006) exp3,animal,pic,visual,low_sem,button
 //Subjects=9
--40	-44	-17
-43	-65	-13
--47	5	27
+-39	-73	-14
+28	-70	-14
+-27	-64	45
+30	-59	42
+-48	-21	52
+32	-2	49
+47	7	28
+-5	11	49
+-31	23	6
+25	37	-20
+49	37	28
 
 //Reference=Talairach
-//Kawashima, R., et al. (2001),animal,pic,visual,high_sem, no_response
+//Kawashima, R., et al. (2001),living,pic,visual,high_sem, verbal
 //Subjects=8
 48	-74	14
 -12	-86	18
+14	-92	22
 10	-56	12
 28	-42	-10
 -16	8	-36
 -38	-16	-22
 
 //Reference=Talairach
-//Martin et al. (2003),living,pic,visual,high_sem,verbal
+//Kawashima, R., et al. (2001),living,pic,visual,high_sem, verbal
+//Subjects=8
+48	-74	14
+-12	-86	18
+14	-92	22
+10	-56	12
+28	-42	-10
+-16	8	-36
+-38	-16	-22
+
+//Reference=Talairach
+//Mahon et al. (2009) Study 2,animal,pic,visual,low_sem, no_response
+//Subjects=20
+-42	-76	-7
+
+//Reference=Talairach
+//Martin et al. (2003),living,video,visual,high_sem,button
 //Subjects=12
 -44	-57	-23
 -40	-38	-20
@@ -372,9 +415,10 @@
 -6	-70	-12
 -42	0	-4
 -14	-22	8
+34	-10	-16
 
 //Reference=Talairach
-//Moore&Price (1999) Exp. 2,living,pic,visual,high_sem,button
+//Moore&Price (1999) Exp. 2,living,visual,high_sem,button
 //Subjects=6
 -38	26	-12
 -56	-14	-18
@@ -403,32 +447,6 @@
 4	-64	-17
 -7	-57	-18
 -9	-56	-20
-12	-66	-20
--13	-64	12
--16	-92	11
--23	-81	15
--1	-76	3
-28	-87	17
-48	-76	-3
--40	-73	-12
-44	-68	-14
-40	-69	-17
-36	-18	-35
-39	-26	-23
-39	-33	-26
-21	-13	-29
--4	15	45
--51	24	21
--21	29	-24
-3	8	-17
--17	-23	-3
-5	-37	-12
--4	-50	-18
--40	-62	-21
--1	-68	-26
-36	-69	-21
-11	-68	-12
-38	-57	-36
 
 //Reference=Talairach
 //Murtha et al. (1999)Task.2,animal,pic,visual,high_sem,verbal
@@ -456,15 +474,6 @@
 8	-71	-20
 8	-61	-12
 -22	37	12
-
-//Reference=Talairach
-//Murtha et al. (1999),animal,pic,visual,high_sem,verbal
-//Subjects=10
--24	-80	-8
--44	1	-23
--63	-23	-29
--55	-40	-41
-0	-11	-20
 
 //Reference=MNI
 //Okada et al. (2000),animal,pic,visual,high_sem,verbal
@@ -496,7 +505,7 @@
 48	-54	-22
 
 //Reference=Talairach
-//Smith et al. (2001),living,pic,visual,high_sem,no_response
+//Smith et al. (2001),living,pic,visual,high_sem,verbal
 //Subjects=18
 41	-58	-12
 41	-72	-9
@@ -532,11 +541,11 @@
 -54	15	34
 9	-78	4
 -9	19	43
+-19	-93	1
 
 //Reference=Talairach
 //Votaw et al. (1999;exp2),animal,pic,visual,high_sem,verbal
 //Subjects=10
--19	-93	1
 -36	-46	-15
 -42	-61	-6
 34	-52	-15
@@ -589,55 +598,3 @@
 -10	-20	6
 30	-18	8
 12	-14	6
-
-//Reference=Talairach
-//Chao, L. L., et al. (1999;exp1),animal,pic,visual,low_sem,button
-//Subjects=4
-12	-87	-7
--17	-97	-16
-29	-84	-11
--36	-78	-15
-41	-53	-20
--35	-59	-20
-43	-61	12
-
-//Reference=Talairach
-//Chao, L. L., et al. (1999;exp3),animal,pic,visual,low_sem,no_response
-//Subjects=8
-15	-92	1
--9	-88	9
-33	-84	-5
--30	-81	-1
-38	-56	-12
--40	-59	-10
-53	-54	16
--42	-59	19
-
-//Reference=Talairach
-//Chao, L. L., et al. (1999;exp4),animal,word,visual,low_sem,button
-//Subjects=8
-31	-76	-15
--29	-72	-18
-37	-55	-21
--40	-56	-21
--64	-40	6
-
-//Reference=Talairach
-//Joseph, J. E., et al. (2006) exp3,animal,pic,visual,low_sem,button
-//Subjects=9
--39	-73	-14
-28	-70	-14
--27	-64	45
-30	-59	42
--48	-21	52
-32	-2	49
-47	7	28
--5	11	49
--31	23	6
-25	37	-20
-49	37	28
-
-//Reference=Talairach
-//Mahon et al. (2009) Study 2,animal,pic,visual,low_sem, no_response
-//Subjects=20
--42	-76	-7

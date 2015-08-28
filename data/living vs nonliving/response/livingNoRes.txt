@@ -1,56 +1,4 @@
 //Reference=Talairach
-//Joseph, J. E., et al. (2006) exp1,animal,pic,visual,high_sem,no_response
-//Subjects=9
-39	-71	-12
--43	-70	-11
--40	-44	-17
--43	-65	-13
--48	-71	-18
-35	-41	-23
--39	-59	55
--29	-53	41
-33	-57	46
-28	-37	71
--27	-28	74
--43	-22	65
-65	-44	8
--67	-34	-5
--28	-1	-22
--41	2	32
--55	6	42
--49	10	29
--48	24	25
--47	5	27
--43	41	-12
--33	31	9
-
-//Reference=Talairach
-//Kawashima, R., et al. (2001),living,pic,visual,high_sem, no_response
-//Subjects=8
-48	-74	14
--12	-86	18
-14	-92	22
-10	-56	12
-28	-42	-10
--16	8	-36
--38	-16	-22
-
-//Reference=Talairach
-//Lewis et al. (2005),animal,auditory,high_sem, no_response
-//Subjects=20
-56	-8	5
--60	-15	2
--10	51	11
-
-//Reference=Talairach
-//Smith et al. (2001),living,pic,visual,high_sem,no_response
-//Subjects=18
-41	-58	-12
-41	-72	-9
-37	18	-10
--41	12	-11
-
-//Reference=Talairach
 //Chao, L. L., et al. (1999;exp3),animal,pic,visual,low_sem,no_response
 //Subjects=8
 15	-92	1
@@ -61,6 +9,13 @@
 -40	-59	-10
 53	-54	16
 -42	-59	19
+
+//Reference=Talairach
+//Lewis et al. (2005),animal,auditory,high_sem, no_response
+//Subjects=20
+56	-8	5
+-60	-15	2
+-10	51	11
 
 //Reference=Talairach
 //Mahon et al. (2009) Study 2,animal,pic,visual,low_sem, no_response
